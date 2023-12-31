@@ -1,0 +1,15 @@
+Windows data Type       Go data type
+BOOLEAN                 byte
+BOOL                    int32
+BYTE                    byte
+DWORD                   uint32
+DWORD32                 uint32
+DWORD64                 uint64
+WORD                    uint16
+HANDLE                  uintptr (unsigned integer pointer)
+LPVOID                  uintptr
+SIZE_T                  uintptr
+LPCVOID                 uintptr
+HMODULE                 uintptr
+LPCSTR                  uintptr
+LPDWORD                 uintptr
